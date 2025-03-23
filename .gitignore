@@ -1,0 +1,6 @@
+resources/
+__pycache__/
+final_model_2.pth
+renders/
+final_model.pth
+NeuronB/node_modules/
